@@ -13,10 +13,11 @@
 }
 
 /* nav section */
-.NAV li a:hover{
+
+.nav li a:hover{
     background-color: transparent;
 }
-navbar-default{
+.navbar-default{
     border-color:transparent;
 }
 .navbar-default .navbar-nav>.active>a,
@@ -34,7 +35,7 @@ navbar-default{
     color: #f8512f;
     background-color: rgba:(17,17,17,.2);
 }
-nav .navbar{
+.nav .navbar{
     position: absolute;
     top:100;
     right:0;
@@ -53,9 +54,9 @@ nav .navbar{
     z-index: 10;
     padding-bottom: 60PX;
 }
-.carousel-inner .item{
+.carousel-inner .carousel-item{
     width: 100%;
-    height: 600px;
+    height: 300px;
     background-size: cover;
     background-position; center;
 }
@@ -64,7 +65,7 @@ nav .navbar{
 
 }
 .main_img2{
-    background-image:('...img/restuarante-2')
+    background-image:url('...img/restuarante-2');
 }
 .btn-primary{
     color: #fff;
