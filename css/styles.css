@@ -54,7 +54,7 @@ nav.navbar{
 }
 .carousel-caption{
     z-index: 10;
-    padding-bottom: 60PX;
+    padding-bottom: 60px;
 }
 .carousel-inner .carousel-item{
     width: 100%;
@@ -79,7 +79,7 @@ nav.navbar{
 }
 .carousel-caption p{
     color: #f7f7f7;
-    font-size:16px;
+    font-size:3em;
 }
 .wood{
     background-image: url('../img/wood-2.jpg');
